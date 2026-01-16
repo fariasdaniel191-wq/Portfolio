@@ -6,6 +6,7 @@ Portfólio pessoal desenvolvido para apresentar meus conhecimentos e projetos em
 
 🔗 Portfólio online:
 👉 https://fariasdaniel191-wq.github.io/Portfolio/
+
 🛠️ Tecnologias
 
 HTML5
